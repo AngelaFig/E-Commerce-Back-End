@@ -20,3 +20,5 @@ mysql database which can be found in the schema.sql. One must then run and npm i
 ![Demo-gif-3](/demo/13-orm-homework-demo-03.gif)
 
 Video Walk through of Application: 
+https://watch.screencastify.com/v/5aarRhfgk9WI6heoeCOY
+
